@@ -576,13 +576,13 @@ background: linear-gradient(0deg, rgba(3, 0, 84, 0.158) 0%, rgba(255,255,255,0.0
 .section3 .btns button{
   float: left;
   display: block;
-  width: 150px;
+  width: 100px;
   text-align: center;
   margin-left: 10px;
   margin-top: 5px;
   color: #ffffff;
   font-family: 'Kanit', sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   outline: none;
   border: none;
   background-color: #0077ff;
